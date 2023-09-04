@@ -12,7 +12,7 @@ The team made two extensions to the original project:
 
 1. **News domain adaptation**: we adapted the THExt framework to the news domain. To do so, we also needed a new way to define a meaningful context, as we lose the intrinsic structure present in the scientific paper.
 
-2. **Combining syntactic and semantic scores**: we analyzed the trade-ed  off between using a semantic score and a similarity score by introducing a novel modified scoring mechanism.
+2. **Combining syntactic and semantic scores**: we analyzed the trade-off between using a semantic score and a similarity score by introducing a novel modified scoring mechanism.
 
 ## Installation
 
